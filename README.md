@@ -272,6 +272,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Dr. Francisco Pérez García 
-Pompeu Fabra High School 
-University of Barcelona 
+Prof. Dr. Francisco Pérez García,
+Head of Technology at Pompeu Fabra High School, Professor at University of Barcelona and Scientix Ambassador 
