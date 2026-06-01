@@ -52,6 +52,10 @@ Students can immediately observe the effects on:
 - Helps explain why larger/smaller gears change speed and torque
 - Useful for contexts such as bicycles, gear trains, clocks, and industrial mechanisms
 
+## Try it out
+
+[Test the Gearlab simulator](https://drfperez.github.io/gearlab)
+
 ---
 
 ### 2. ResistorLab
@@ -74,6 +78,11 @@ It includes support for:
 - Explains significant digits, multiplier, and tolerance
 - Helps students understand that real resistor values fall within a valid interval
 - Makes the structure of resistor coding visible and easier to reason about
+
+
+## Try it out
+
+[Test the Resistorlab simulator](https://drfperez.github.io/resistorlab)
 
 ---
 
@@ -101,6 +110,11 @@ The simulator allows students to:
 - Helps learners understand simplification, not just perform it
 - Connects algebraic form to circuit implementation
 - Supports error checking, comparison, and reasoning
+
+
+## Try it out
+
+[Test the Logiclab simulator](https://drfperez.github.io/logiclab)
 
 ---
 
@@ -130,6 +144,11 @@ Available gates:
 - Encourages experimentation and pattern discovery
 - Helps students intuitively understand gate behavior before formal truth tables
 - Works well on computers, tablets, and projected classroom displays
+
+
+## Try it out
+
+[Test the Gatrlab simulator](https://drfperez.github.io/gatelab)
 
 ---
 
