@@ -245,7 +245,7 @@ Possible future developments include:
 
 This README is based on the manuscript:
 
-**“GearLab, ResistorLab, LogicLab y GateLab: simuladores interactivos para la comprensión visual, progresiva y significativa de la mecánica, la electrónica y la lógica digital en el aula.”**
+**“Simuladores didácticos para mecánica, electrónica y lógica digital.”**
 
 If you use these simulators in research, teaching materials, or publications, consider citing the related manuscript or project documentation.
 
