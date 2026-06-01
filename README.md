@@ -148,7 +148,7 @@ Available gates:
 
 ## Try it out
 
-[Test the Gatrlab simulator](https://drfperez.github.io/gatelab)
+[Test the Gatelab simulator](https://drfperez.github.io/gatelab)
 
 ---
 
